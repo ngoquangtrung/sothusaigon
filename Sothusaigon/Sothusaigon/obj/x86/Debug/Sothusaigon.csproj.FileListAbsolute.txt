@@ -1,0 +1,16 @@
+c:\users\hoang pham cuong\documents\visual studio 2010\Projects\Sothusaigon\Sothusaigon\bin\Debug\Sothusaigon.exe
+c:\users\hoang pham cuong\documents\visual studio 2010\Projects\Sothusaigon\Sothusaigon\bin\Debug\Sothusaigon.pdb
+c:\users\hoang pham cuong\documents\visual studio 2010\Projects\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.Form1.resources
+c:\users\hoang pham cuong\documents\visual studio 2010\Projects\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.Properties.Resources.resources
+c:\users\hoang pham cuong\documents\visual studio 2010\Projects\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.csproj.GenerateResource.Cache
+c:\users\hoang pham cuong\documents\visual studio 2010\Projects\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.exe
+c:\users\hoang pham cuong\documents\visual studio 2010\Projects\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.pdb
+F:\Sothusaigon\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.Form1.resources
+F:\Sothusaigon\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.Properties.Resources.resources
+F:\Sothusaigon\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.csproj.GenerateResource.Cache
+F:\Sothusaigon\Sothusaigon\Sothusaigon\bin\Debug\Sothusaigon.exe
+F:\Sothusaigon\Sothusaigon\Sothusaigon\bin\Debug\Sothusaigon.pdb
+F:\Sothusaigon\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.exe
+F:\Sothusaigon\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.pdb
+C:\Users\DELL\Documents\GitHub\sothusaigon\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.exe
+C:\Users\DELL\Documents\GitHub\sothusaigon\Sothusaigon\Sothusaigon\obj\x86\Debug\Sothusaigon.pdb
